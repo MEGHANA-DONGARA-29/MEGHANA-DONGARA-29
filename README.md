@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Sai+Immani!;Developer+and+Tech+Enthusiast...;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Meghana+Dongara!;Developer+and+Tech+Enthusiast...;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
 </div>
 
-# 👨‍💻 Sai Immani | Software Developer
+# 👨‍💻 Meghana | Software Developer
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saiimmani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/saiimmani?label=Followers&style=social">
-  <img src="https://img.shields.io/github/last-commit/saiimmani/saiimmani?label=Last%20Updated&color=blue">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saiimmani.saiimmani&left_color=green&right_color=red&left_text=Hello%20Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=MEGHANA-DONGARA-29&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/MEGHANA-DONGARA-29?label=Followers&style=social">
+  <img src="https://img.shields.io/github/last-commit/MEGHANA-DONGARA-29/MEGHANA-DONGARA-29?label=Last%20Updated&color=blue">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MEGHANA-DONGARA-29.MEGHANA-DONGARA-29&left_color=green&right_color=red&left_text=Hello%20Visitors" />
 </div>
 
 ## 😊 About Me
