@@ -53,15 +53,6 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEGHANA-DONGARA-29&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEGHANA-DONGARA-29&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEGHANA-DONGARA-29&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 📈 GitHub Activity Graph
 
 <div align="center">
