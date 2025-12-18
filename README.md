@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Meghana+Dongara!;Developer+and+Tech+Enthusiast...;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=F8C8DC&size=30&lines=Hey!+I'm+Meghana+Dongara!;Developer+and+Tech+Enthusiast...;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!" alt="Typing SVG" />
 </div>
 
 # 👨‍💻 Meghana | Software Developer
