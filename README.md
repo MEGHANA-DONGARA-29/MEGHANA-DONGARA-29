@@ -26,12 +26,6 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=500&color=7AF79A&center=true&vCenter=true&width=500&height=60&lines=const+developer+=+'passionate';while(coding)+%7B+learn();+%7D;console.log('Building+the+future!');git+commit+-m+'Amazing+features'" alt="Code Animation" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MEGHANA-DONGARA-29&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
 ## 🛠 Tech Stack
 
 <div align="center">
