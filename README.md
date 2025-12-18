@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MEGHANA-DONGARA-29&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/MEGHANA-DONGARA-29?label=Followers&style=social">
-  <img src="https://img.shields.io/github/last-commit/MEGHANA-DONGARA-29/MEGHANA-DONGARA-29?label=Last%20Updated&color=blue">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MEGHANA-DONGARA-29.MEGHANA-DONGARA-29&left_color=green&right_color=red&left_text=Hello%20Visitors" />
 </div>
 
@@ -72,14 +71,14 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/MEGHANA-DONGARA-29/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGHANA-DONGARA-29&repo=&theme=radical" />
+  <a href="https://github.com/MEGHANA-DONGARA-29/C-Programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGHANA-DONGARA-29&repo=C-Programming&theme=radical" />
   </a>
-  <a href="https://github.com/MEGHANA-DONGARA-29/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGHANA-DONGARA-29&repo=&theme=radical" />
+  <a href="https://github.com/MEGHANA-DONGARA-29/Python-Programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGHANA-DONGARA-29&repo=Python-Programming&theme=radical" />
   </a>
-  <a href="https://github.com/MEGHANA-DONGARA-29/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGHANA-DONGARA-29&repo=&theme=radical" />
+  <a href="https://github.com/MEGHANA-DONGARA-29/Data-Structures">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MEGHANA-DONGARA-29Data-Structures&repo=&theme=radical" />
   </a>
 </div>
 
@@ -109,9 +108,6 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 <div align="center">
   <a href="https://linkedin.com/in/meghana-dongara-a61148293">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://MEGHANA-DONGARA-29.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website"/>
   </a>
   <a href="mailto:meghanadongara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
